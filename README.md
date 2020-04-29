@@ -14,7 +14,7 @@ WIP: Quando todos os robôs da geração estiverem mortos, o robô que chegou ma
 WIP: A rede consiste em ...
 
 ## Como usar
-Abara o arquivo index.html no navegador
+Abra o arquivo index.html no navegador
 
 ## Contribuir
 Toda contribuição é bem-vinda, seja escrevendo issues ou clonando o projeto para submeter Pull Requests.
