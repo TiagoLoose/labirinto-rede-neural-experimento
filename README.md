@@ -15,6 +15,7 @@ WIP: A rede consiste em ...
 
 ## Como usar
 Abra o arquivo index.html no navegador
+https://tiagoloose.github.io/labirinto-rede-neural-experimento/index.html
 
 ## Contribuir
 Toda contribuição é bem-vinda, seja escrevendo issues ou clonando o projeto para submeter Pull Requests.
